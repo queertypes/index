@@ -1,4 +1,4 @@
-# About Me: Alej Cabrera
+# About Me: Allele Dev
 
 Hi! This is a collection of links to places where you can see more of
 my work. Most of the repos that I (do not) maintain on github are
@@ -8,6 +8,5 @@ Thanks!
 
 ## Links
 
-* [Main Blog](https://blog.cppcabrera.com/): Haskell, Society, and more
-* [Game Dev Blog](https://applicative-games.cppcabrera.com/): Haskell, FRP, Games, and More
-* [Gitlab](https://gitlab.com/u/cpp.cabrera): new project work
+* [Main Blog](https://queertypes.com/): Haskell, Society, and more
+* [Gitlab](https://gitlab.com/queertypes): new project work
